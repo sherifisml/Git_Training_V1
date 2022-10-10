@@ -4,4 +4,8 @@ DevOps with Jenkins Terraform AWS Docker Swarm Maven Kubernetes GIT & Ansible Au
 
 This is Totes Git Revert Commit
 This is comparison lecture 1
+<<<<<<< Updated upstream
 This is Stash lecture, Change in main file
+=======
+This is Stash lecture, Change in File 1
+>>>>>>> Stashed changes
