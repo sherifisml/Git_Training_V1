@@ -1,1 +1,2 @@
 Sample Develop File2
+This is comparison lecture 2

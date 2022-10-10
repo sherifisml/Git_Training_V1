@@ -2,3 +2,4 @@ Sample Develop File1
 
 
 This is Totes Git Revert Commit
+This is comparison lecture 1
